@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gallo13
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning machine learning and digital image processing.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Kaggle Contests to improve my coding.
 - 📫 How to reach me ...
 
 <!---
