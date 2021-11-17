@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gallo13
 - 👀 I’m interested in machine learning, specifically computer vision.
-- 🌱 I’m currently learning machine learning and digital image processing.
-- 💞️ I’m looking to collaborate on Kaggle Contests to improve my coding.
+- 🌱 I’m currently learning image processing and SQL and I am continuing to learn and refine my knowlege of machine learning concepts and math.
+- 💞️ I’m looking to learn more about how to use computer vision and image processing in real world senarios that can one day help people.
 - 📫 How to reach me ...
 
 <!---
