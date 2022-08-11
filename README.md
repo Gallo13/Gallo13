@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gallo13
 - 👀 I’m interested in data science and machine learning.
-- 🌱 I just graduated and I am continuing to learn and refine my knowlege of machine learning concepts and math.
-- 💞️ I’m looking to learn more about how to use data science in real world senarios that can one day help people.
+- 🌱 I graduated in 2022 and I am looking for a data science role. While looking for internship and entry-level opportunities, I am taking the time to continuing learning and refining my knowlege of machine learning concepts and data analytics to better my experience and abilities for my future roles. I am currently an intern at Data Glacier and use the website Forage for other virtal internship experiece for real-world scenarios.
+- 💞️ I’m looking to learn more about how to use data science in a real-world business setting that can aid in my future job positions.
 
 Skills:
 - Python
