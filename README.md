@@ -9,8 +9,6 @@ Skills:
 - Matlab
 - Python Libraries: Pandas, Numpy, Scikit-Learn, Seaborn, MatplotLib
 
-E posso parlare in italiano a livello B1 :)
-
 <!---
 Gallo13/Gallo13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
