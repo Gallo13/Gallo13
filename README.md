@@ -74,7 +74,14 @@
 </p>
 
 <h3>Badges</h3>
-<p><img src="https://github.com/Gallo13/Gallo13/assets/54815820/1e2feaeb-f1ed-4b49-98ec-a9be441ffc89" height="150" alt="HackerRank SQL Basic Cert" /> </p>
+<div>
+  <table>
+    <tr>
+      <img src="https://github.com/Gallo13/Gallo13/assets/54815820/1e2feaeb-f1ed-4b49-98ec-a9be441ffc89" height="150" alt="HackerRank SQL Basic Cert" />
+      <img src="https://github.com/Gallo13/Gallo13/assets/54815820/da547145-260b-426c-ab5a-971ed0d9effd" height="150" alt="HackerRank SQL Intermediate Cert" />
+     </tr>
+  </table>
+</div>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gallo13&layout=compact&theme=highcontrast" alt=Gallo13 />
