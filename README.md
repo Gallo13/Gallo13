@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gallo13&theme=darkhub" alt="Gallo13" /></a> </p>
 
-- 🔭 I’m currently working on **Analytics Vidha Machine Learning Summer Training.**
+- 🔭 I’m currently working on **my personal project for a Virtual Library that utilizes Python, Flask, MySQL, HTML, CSS, Bootstrap, Javascript Pandas, NumPY, and AWS.**
 - 🤝 I’m looking for help with **finding projects to contribute to.**
-- 🌱 I’m currently learning **machine learning concepts, better python practices, databases, and Java.**
+- 🌱 I’m currently learning **machine learning concepts, better python practices, databases, and JavaScript.**
 
 
 
