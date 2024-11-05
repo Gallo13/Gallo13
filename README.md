@@ -5,9 +5,10 @@
 
 - 🔭 I’m currently working on **my personal project for a Virtual Library that utilizes Python, Flask, MySQL, HTML, CSS, Bootstrap, Javascript Pandas, NumPY, and AWS.**
 - 🤝 I’m looking for help with **finding projects to contribute to.**
-- 🌱 I’m currently learning **machine learning concepts, better python practices, databases, and JavaScript.**
+- 🌱 I’m currently learning **more machine learning concepts, better python practices, databases, and JavaScript.**
 
-
+About Me:
+I hold my Bachelor's degree in Computer Science and a Minor in Italian language, a Master's degree in Computer Science with a specialization in Artificial Intelligence and Data Analytics, and I am currently obtaining my MBA with a focus in Finance. My current role is an Information Systems Support Specialist who manages Jenzabar/CX and Oracle databases. I am currently using my data expertise to migrate from Jenxabar/CX to Oracle and provide data management, data mapping, and data analysis. I am also an Adjunct Professor for the Mathematics and Computer Science department. I am currently teaching FInite Mathematics (MA119) and Analytic Geometry and Calculus I (MA121). Next semester I will be teaching Finite Mathematics and Introduction to Programming (CS130) in C++. 
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jessgallo13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Gallo13" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
